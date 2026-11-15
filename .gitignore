@@ -25,6 +25,7 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+/android/build/
 
 # Symbolication / obfuscation
 app.*.symbols
